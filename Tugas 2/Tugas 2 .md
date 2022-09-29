@@ -1,0 +1,10 @@
+# Cara Menghubungkan client-server dengan Windows
+
+1. -  Pertama, jalankan mesin virtual Debian 11 Linux terlebih dahulu. Caranya klik mesin virtual Debian 11 kemudian klik tombol Mulai.
+2. - Kedua setelah itu untuk melakukan konfigurasi kita harus login sebagai **root**.(*su*). Karena di dalam sistem linux, root adalah hak akses yang paling tinggi (Super User). Jika kita login sebagai user biasa, kita tidak akan bisa melakukan konfigurasi. Caranya pada bagian user ketikkan root (su) lalu tekan Enter, kemudian pada bagian password ketikkan password root yang kita buat pada saat instalasi Debian Linux.
+3. - Ketiga ketik perintah terminal : nano /etc/network/interfaces lalu tekan Enter.
+4. - Keempat langkah selanjutnya kita akan ke file interface. Edit file dengan menambahkan konfigurasi IP Address server, sebagai contohnya IP Address Server pada eth0 adalah 192.168.243.2 Setelah selesai, tekan ctrl+s lalu Enter untuk menyimpan yang kita buat tadi, kemudian ctrl+x untuk keluar dari editor.
+5. - Kelima setelah selesai melakukan konfigurasi IP Address, kemudian restart service dari networking pada komputer server kita. Caranya ketikkan perintah /etc/init.d/networking restart lalu tekan Enter.
+6. - Keenam langkah selanjutnya kita harus memastikan dulu apakah IP Address kita berhasil atau tidak. Caranya dengan mengetikkan perintah **ifconfig** atau **ip a** lalu Enter
+8. - Ketujuh langkah selanjutnya klik kanan pada Local Area Connections lalu pilih Properties. Klik pada Internet Protocol (TCP/IP) kemudian klik Properties, akan muncul Jendela Internet Protocol (TCP/IP) Properties. Kemudian Klik OK.
+9. - Terakhir pada Internet Protocol (TCP/IP) Properties pilih Use the following IP address, kemudian masukkan IP Address pada network yang sama. Sebagai contoh IP Address untuk komputer client tidak bolah sama dengan yang sebelumnya 192.168.243.1, kemudian pada bagian Subnet mask biasanya akan terisi 255.255.255.0 secara otomatis. Setelah itu tekan Ok. Setelah selesai *buka cmd dan ping ip address*
