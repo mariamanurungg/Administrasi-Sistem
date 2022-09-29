@@ -24,3 +24,4 @@
 8. - Pada Internet Protocol (TCP/IP) Properties pilih Use the following IP address, kemudian masukkan IP Address pada network yang sama. Sebagai contoh IP Address untuk komputer client tidak bolah sama dengan yang sebelumnya 192.168.243.2 kemudian pada bagian Subnet mask biasanya akan terisi 255.255.255.0 secara otomatis. Setelah itu tekan Ok. Setelah selesai buka cmd dan ping ip address.
 ![langkah 9](https://user-images.githubusercontent.com/112459285/192762379-e0e1de59-437a-4978-b88c-2138b69c54ea.png)
 
+
