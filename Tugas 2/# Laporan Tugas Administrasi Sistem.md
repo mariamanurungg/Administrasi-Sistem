@@ -13,3 +13,4 @@
  Kemudian lakukan pengecekan koneksi jaringan dari komputer server ke client dengan cara menggunakan perintah ping pada komputer server Ping 10.0.2.15 dan sebaliknya pada komputer client lakukan ping pada komputer server ping 10.0.2.15. Jika sukses maka akan menampilkan pesan reply from TTL, Ping dari komputer server ke komputer client Ping dari komputer client ke komputer server Sampai di sini konfigurasi IP adress pada server dan client sudah berhasil. Sekarang komputer server dan client sudah terhubung pada jaringan yang sama. Jika ada pertanyaan mengenai pokok bahasan di atas silakan berkomentar pada kolom komentar yang sudah disediakan di bawah.![9](https://user-images.githubusercontent.com/112459285/191631153-6558b5d4-948c-4c93-923a-685f56f55a48.png)![10](https://user-images.githubusercontent.com/112459285/191631187-cdd05300-53c7-42c5-a39c-c1ac690c343f.png)
 
 
+
