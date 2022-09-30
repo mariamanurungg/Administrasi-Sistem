@@ -1,8 +1,9 @@
 # Cara Menghubungkan client-server dengan Windows
 
-1. -  Pertama, jalankan mesin virtual Debian 11 Linux terlebih dahulu. Caranya klik mesin virtual Debian 11 kemudian klik tombol Mulai. ![Screenshot 2022-09-15 175711](https://user-images.githubusercontent.com/112459285/193059024-5165d8c0-f140-4ff6-a171-fa17a6b8796e.png)
+1. -  Pertama, jalankan mesin virtual Debian 11 Linux terlebih dahulu. Caranya klik mesin virtual Debian 11 kemudian klik tombol Mulai. ![Screenshot (69)](https://user-images.githubusercontent.com/112459285/193221486-0022bf4c-42ca-49da-acdb-6af7b7536574.png)
 
-2. - Kedua setelah itu untuk melakukan konfigurasi kita harus login sebagai **root**.(*su*). Karena di dalam sistem linux, root adalah hak akses yang paling tinggi (Super User). Jika kita login sebagai user biasa, kita tidak akan bisa melakukan konfigurasi. Caranya pada bagian user ketikkan root (su) lalu tekan Enter, kemudian pada bagian password ketikkan password root yang kita buat pada saat instalasi Debian Linux. ![Screenshot 2022-09-22 070124](https://user-images.githubusercontent.com/112459285/193059129-853e8e88-94d1-4187-b916-b34fc36a74c1.png)
+2. - Kedua setelah itu untuk melakukan konfigurasi kita harus login sebagai **root**.(*su*). Karena di dalam sistem linux, root adalah hak akses yang paling tinggi (Super User). Jika kita login sebagai user biasa, kita tidak akan bisa melakukan konfigurasi. Caranya pada bagian user ketikkan root (su) lalu tekan Enter, kemudian pada bagian password ketikkan password root yang kita buat pada saat instalasi Debian Linux. ![1](https://user-images.githubusercontent.com/112459285/193221709-99d12904-5bf6-43f0-bc17-e721899014b7.png)
+
 
 3. - Ketiga ketik perintah terminal : nano /etc/network/interfaces lalu tekan Enter. ![zz](https://user-images.githubusercontent.com/112459285/193059834-bac84af1-ac3f-43a9-814b-5dccfda0102a.png)
 
