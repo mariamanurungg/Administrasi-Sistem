@@ -1,0 +1,7 @@
+#FTP
+
+1. Langkah pertama buka Debian kemudian masuk ke super user dengan command su dan masukkan password Linuxnya. Jika authentication failure silahkan menggunakan command su dan masukkan password Linuxnya.
+2. Setelah berhasil masuk ke super user, silahkan install proftpd dengan menjalankan command apt-get install proftpd.
+3. Silahkan menjalankan command nano /etc/apt/sources.list kemudian tambahkan # di depan deb cdrom baris ke-2 atau bisa juga text pada baris ke-2 tersebut dihapus.
+4. Simpan dan jalankan command apt-get update dan coba jalankan lagi command apt-get install proftpd untuk menginstall ulang. Kali ini saya menggunakan settingan default yang ada pada aplikasi proftpd, namun jika anda membutuhkan konfigurasi pada FTP server anda, silahkan konfigurasikan pada file /etc/proftpd/proftpd.conf. Selanjutnya pengujian pada proftpd, kali ini saya lakukan dengan menggunakan aplikasi filezilla yang akan diinstall pada computer client. Untuk itu silahkan download aplikasi tersebut pada https://filezilla-project.org/download.php jika sudah diinstall jalankan, maka tampilannya akan sebagai berikut:
+5. Jalankan filezilla kemudian masukkan: Host : Isi dengan IP address dari debian Username : Nama user di debian Password : Password debian Port : 21
