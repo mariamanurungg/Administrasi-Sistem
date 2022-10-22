@@ -15,3 +15,4 @@
 
 5. Langkah kelima Jalankan filezilla kemudian masukkan: Host : Isi dengan IP address dari debian Username : Nama user di debian Password : Password debian Port : 21![fz](https://user-images.githubusercontent.com/112459285/197343650-e06d2de9-efb8-4528-bd59-25125d8d3ecc.png) hasil penampilannya comand ls
 ![men](https://user-images.githubusercontent.com/112459285/197343688-1a4954fd-4475-418e-9665-84919dea605f.png)
+
