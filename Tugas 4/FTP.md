@@ -1,4 +1,4 @@
-#FTP
+# FTP
 
 1. Langkah pertama buka Debian kemudian masuk ke super user dengan command sudo su dan masukkan password Linuxnya. Jika authentication failure silahkan menggunakan command su dan masukkan password Linuxnya.
 ![SUDO](https://user-images.githubusercontent.com/112459285/197343048-bc4382bf-db62-4b80-b256-ef8fdae2e259.png)
