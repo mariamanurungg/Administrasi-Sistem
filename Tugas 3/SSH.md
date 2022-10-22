@@ -11,5 +11,7 @@ Caranya pada bagian user ketikkan root (sudo su) lalu tekan Enter, kemudian pada
 3. Ketiga ketikan apt-get install openssh-server dan jika berhasil akan tampil seperti gambar dibawah ini.
 ![image](https://user-images.githubusercontent.com/112459285/197339815-5be339b4-a067-42f7-883c-b238cc93a75b.png), karena saya sudah menginstall maka akan seperti itu 
 
-4. Keempat kita cek ip addresnya dengan mengetikan "ip addr" ![ip addr](https://user-images.githubusercontent.com/112459285/197340337-1152cd32-90ce-4c7a-a089-b6f4655eae48.png) 
-dan mencek status ssh server yang sudah di install dengan mengetik " /etc/init.d/ssh status" ![init d ssh](https://user-images.githubusercontent.com/112459285/197340360-5efd73de-fa92-429d-8084-e1be080077de.png)
+4. Keempat kita cek ip addresnya dengan mengetikan "ip addr" ![ip addr](https://user-images.githubusercontent.com/112459285/197340337-1152cd32-90ce-4c7a-a089-b6f4655eae48.png)  dan mencek status ssh server yang sudah di install dengan mengetik " /etc/init.d/ssh status" 
+![init d ssh](https://user-images.githubusercontent.com/112459285/197340360-5efd73de-fa92-429d-8084-e1be080077de.png)
+
+5. 
