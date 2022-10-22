@@ -16,3 +16,4 @@
 8. - Ketujuh langkah selanjutnya klik kanan pada Local Area Connections lalu pilih Properties. Klik pada Internet Protocol (TCP/IP) kemudian klik Properties, akan muncul Jendela Internet Protocol (TCP/IP) Properties. Kemudian Klik OK.![Screenshot (66)](https://user-images.githubusercontent.com/112459285/193063418-e2e0c432-093e-4b85-9508-aed118baab3c.png)
 
 9. - Terakhir pada Internet Protocol (TCP/IP) Properties pilih Use the following IP address, kemudian masukkan IP Address pada network yang sama. Sebagai contoh IP Address untuk komputer client tidak bolah sama dengan yang sebelumnya 192.168.243.1, kemudian pada bagian Subnet mask biasanya akan terisi 255.255.255.0 secara otomatis. Setelah itu tekan Ok. Setelah selesai *buka cmd dan ping ip address*![Screenshot (67)](https://user-images.githubusercontent.com/112459285/193063828-87d18000-3a7d-458e-9dcc-110313d9cf6b.png)
+
