@@ -16,3 +16,4 @@ Caranya pada bagian user ketikkan root (sudo su) lalu tekan Enter, kemudian pada
 
 5. Kelima masukkan ip address pada futty akan tetapi punya saya eror padahal ip yang saya ketikan sama dengan ip addr saya ![eror](https://user-images.githubusercontent.com/112459285/197342808-60e8f948-26cb-4e35-b958-d341baa832d0.png)
 
+
