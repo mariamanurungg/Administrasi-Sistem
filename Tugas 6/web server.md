@@ -9,7 +9,7 @@
 
 
 3. Langkah ketiga jika sudah berhasil silahkan jalankan penginstalan bahasa pemprograman php dengan command **apt-get install php8.1**(php8.1 artinya php versi 8.1) jika gagak coba jalankan command **sudo apt -y install php8.1**
-![sudo apt -y install php8 1](https://user-images.githubusercontent.com/112459285/198181961-0d0a2b39-1f9f-49ac-96aa-238a216e0c04.png)
+![sudo apt -y install php8 1](https://user-images.githubusercontent.com/112459285/198183112-cf5f3d5c-2429-4823-a81b-8db46d3d8040.png)
 
 
 4. Langkah keempat selanjutnya konfigurasi, kita bisa melihat hasil dengan mengunjungi web browser dan mengetikkan alamat IP server kita (jalankan command **ip a** untuk melihat IP server) maka akan muncul seperti gambar dibawah ini.
@@ -21,7 +21,7 @@
 5. Langkah kelima selanjutnya kita akan menguji menggunakan script php untuk menampilkan info php pada server kita, Kita akan membuat skrip php pada folder **/var/www**  Jalankan command **nano /var/www/html/test/php** atau jika gagal **nano /var/www/test.php**. Setelah itu masukkan skrip seperti gambar dibawah ini 
 ![PHPP](https://user-images.githubusercontent.com/112459285/198182414-044328f0-e903-45ab-8fbf-ddb705c1e06f.png)
 
-6. Langkah keenam yaitu ;yang langkah terakhir selanjutnya buka browser dalam linuxnya lalu ketik (**IP server kalian)/test.php.** Maka akan muncul laman tentang info dari php yang kita install pada server. 
+6. Langkah keenam yaitu yang langkah terakhir selanjutnya buka browser dalam linuxnya lalu ketik (**IP server kalian)/test.php.** Maka akan muncul laman tentang info dari php yang kita install pada server. 
 ![hasill](https://user-images.githubusercontent.com/112459285/198182948-cf185910-0a2d-48c6-8268-555c0578129e.png)
 
 
