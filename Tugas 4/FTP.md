@@ -8,7 +8,8 @@
 ![apt-get install proftpd](https://user-images.githubusercontent.com/112459285/197343101-5546fa96-e5c8-4e2b-9a15-cdbf7fb22ea0.png)
 
 
-3. Langkah ketiga silahkan menjalankan command nano /etc/proftpd/proftpd.conf, kemudian hapus tanda # di depan DefaultRoot~ baris ke-14 dan Port 21 ![conf](https://user-images.githubusercontent.com/112459285/197343337-ca89b640-65f0-4420-80c6-903a9475e3cb.png)
+3. Langkah ketiga silahkan menjalankan command nano /etc/proftpd/proftpd.conf, kemudian hapus tanda # di depan DefaultRoot~ baris ke-14 dan Port 21 
+![conf](https://user-images.githubusercontent.com/112459285/197343337-ca89b640-65f0-4420-80c6-903a9475e3cb.png)
 
 
 4. Langkah keempat silahkan menjalankan command systemctl restart proftpd.service
