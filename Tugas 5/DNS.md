@@ -5,8 +5,10 @@
 1) Langkah pertama buka debian kemudian masukkan ke super user dengan command **sudo su** dan masukkan password Linuxnya. Jika authentication failure silahkan menggunakan command su dan masukkan password Linuxnya. 
 ![1](https://user-images.githubusercontent.com/112459285/200841408-65c637c1-1180-41d7-836d-8e4a1212d704.png)
 
+
 2) Langkah kedua ketikan command **nano /etc/network/interfaces**
 ![2](https://user-images.githubusercontent.com/112459285/200841490-dfbbbbcd-2d63-46a5-ae67-b59c2b8cf22e.png)
+
 
 3) Langkah ketiga lalu ketikkan :  
 - auto enp0s3,  
@@ -18,6 +20,7 @@ netmask 255.255.255.0
 
 4) Langkah keempat ketikkan command **systemctl restrt networking** untuk merestart 
 ![4](https://user-images.githubusercontent.com/112459285/200841719-623bdeda-ca64-4857-bff0-35bb17ea399a.png)
+
 
 5) Langkah kelima ketikkan command **nano /etc/apt/sources.list** untuk menentukan sumber download dari mana saja
 ![5](https://user-images.githubusercontent.com/112459285/200841866-a1e73a6c-d649-462e-999d-cb5138afb3c4.png)
