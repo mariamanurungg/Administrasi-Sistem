@@ -1,9 +1,9 @@
 # DATABASE SERVER
 
-## Nama Anggota Kelompok
-### Trisena Wulandari (1910131320014)
-### Maria Manurung (1910131120004)
-### Yulia Sari (1910131120001)
+#### Nama Anggota Kelompok
+##### Trisena Wulandari (1910131320014)
+##### Maria Manurung (1910131120004)
+##### Yulia Sari (1910131120001)
 
 1. - Login ke debian dengan menggunakan user root dengan cara menjalankan command su atau sudo -i setelah itu jalankan command **apt-get install mysql-server** untuk menginstall database pada server kita, jika ada keterangan "Package 'mysql-server' has no installation candidate" coba jalankan command **apt-get install default-mysql-server**.
 ![apt-get install default-mysql-server](https://user-images.githubusercontent.com/112459285/201567283-c1692588-e263-4f7f-9c72-179e020a19f9.png)
