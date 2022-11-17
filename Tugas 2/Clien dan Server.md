@@ -6,7 +6,7 @@
 
 # Client dan Server
 
-1. Pertama, jalankan mesin virtual Debian 11 Linux terlebih dahulu. Caranya klik mesin virtual Debian 11 kemudian klik tombol Mulai.
+1. Pertama, jalankan  virtualbox Debian 11 Linux terlebih dahulu. Caranya klik mesin virtual Debian 11 kemudian klik tombol Mulai.
 ![1](https://user-images.githubusercontent.com/112459285/197338096-d2dad838-dd93-4ab7-9165-790d07384ef5.png)
 
 2. Kedua Sebelumnya kita mengecek ip addresnya terlebih dahulu dengan mengetikan "ip addr" ![ip addr](https://user-images.githubusercontent.com/112459285/197338298-d3adc2c0-f9c4-4896-9970-bc701caf49a4.png) , lalu setelah itu untuk melakukan konfigurasi kita harus login sebagai root.(sudo su). Karena di dalam sistem linux, root adalah hak akses yang paling tinggi (Super User). Jika kita login sebagai user biasa, kita tidak akan bisa melakukan konfigurasi. Caranya pada bagian user ketikkan root (sudo su) lalu tekan Enter, kemudian pada bagian password ketikkan password root yang kita buat pada saat instalasi..
