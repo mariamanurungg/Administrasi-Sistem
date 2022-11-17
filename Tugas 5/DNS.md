@@ -1,5 +1,9 @@
 # **DNS**
 
+Trisena Wulandari (1910131320014)
+Maria Manurung (1910131120004)
+Yulia Sari (1910131120001)
+
 **1 Install DNS**
 
 1) Langkah pertama buka debian kemudian masukkan ke super user dengan command **sudo su** dan masukkan password Linuxnya. Jika authentication failure silahkan menggunakan command su dan masukkan password Linuxnya. 
