@@ -1,4 +1,7 @@
 # SSH (REMOTE ACCESS)
+Trisena Wulandari (1910131320014)
+Maria Manurung (1910131120004)
+Yulia Sari (1910131120001)
 
 1. Pertama, jalankan mesin virtual Debian 11 Linux terlebih dahulu. Caranya klik mesin virtual Debian 11 kemudian klik tombol Mulai 
 ![1](https://user-images.githubusercontent.com/112459285/197339592-5e8aa31a-5513-42db-ba5a-0342589fe131.png)
