@@ -1,5 +1,9 @@
 # FTP
+Trisena Wulandari (1910131320014)
+Maria Manurung (1910131120004)
+Yulia Sari (1910131120001)
 **1 Instalasi FTP :**
+
 
 1) Langkah pertama buka Debian kemudian masuk ke super user dengan command **sudo su** dan masukkan password Linuxnya. Jika authentication failure silahkan menggunakan command su dan masukkan password Linuxnya.
 ![1](https://user-images.githubusercontent.com/112459285/200821387-cb4cb168-a3e9-49da-9d2f-9f6f7ae7bb1a.png)
