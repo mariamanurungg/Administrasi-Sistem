@@ -1,6 +1,6 @@
 # Nama Kelompok 
-### 1.Maria Manurung (
-### 2.Trisena Wulandari ( 
+### 1.Maria Manurung ( 1910131120004)
+### 2.Trisena Wulandari (1910131320014)
 ### 3.Yulia Sari (1910131120001)
 
 
