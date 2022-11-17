@@ -1,7 +1,7 @@
 # WEB SERVER 
-Trisena Wulandari (1910131320014)
-Maria Manurung (1910131120004)
-Yulia Sari (1910131120001)
+## Trisena Wulandari (1910131320014)
+## Maria Manurung (1910131120004)
+## Yulia Sari (1910131120001)
 
 1. Langkah pertama buka Debian kemudian masuk ke super user dengan command **sudo su** atau bisa engan **su** dan masukkan password Linuxnya.
 ![1](https://user-images.githubusercontent.com/112459285/198181907-9c7d2814-81c5-4e28-9121-4347d7279889.png)
@@ -11,7 +11,7 @@ Yulia Sari (1910131120001)
 ![apt-get install apache2](https://user-images.githubusercontent.com/112459285/198181944-8c9fe916-f132-490b-83ec-8664065a4ad5.png)
 
 
-3. Langkah ketiga jika sudah berhasil silahkan jalankan penginstalan bahasa pemprograman php dengan command **apt-get install php8.1**(php8.1 artinya php versi 8.1) jika gagak coba jalankan command **sudo apt -y install php8.1**
+3. Langkah ketiga jika sudah berhasil silahkan jalankan penginstalan bahasa pemrograman php dengan command **apt-get install php8.1**(php8.1 artinya php versi 8.1) jika gagak coba jalankan command **sudo apt -y install php8.1**
 ![sudo apt -y install php8 1](https://user-images.githubusercontent.com/112459285/198183112-cf5f3d5c-2429-4823-a81b-8db46d3d8040.png)
 
 
