@@ -1,7 +1,9 @@
 # FTP
-Trisena Wulandari (1910131320014)
-Maria Manurung (1910131120004)
-Yulia Sari (1910131120001)
+## Nama Anggota Kelompok
+### Trisena Wulandari (1910131320014)
+### Maria Manurung (1910131120004)
+### Yulia Sari (1910131120001)
+
 **1 Instalasi FTP :**
 
 
@@ -39,7 +41,7 @@ Yulia Sari (1910131120001)
 2) Lalu kita akan buat **file .txt**, untuk membuatnya jalankan command nano saya.txt kemudian isi ketik teks yang mau di masukkan. 
 ![7](https://user-images.githubusercontent.com/112459285/200825649-abc89166-e8a5-400b-b755-fec711f816ff.png)
 
-kemudian simpan dan cek filenya apakah sudah ada dengan menggunakan command ls, atau bisa lihat di Remote site yang terdapat di Filezilla.
+kemudian simpan dan cek filenya apakah sudah ada dengan menggunakan command ls, atau bisa lihat dibagian site yang terdapat di Filezilla.apakah suah aa file yang kita buat 
 ![6](https://user-images.githubusercontent.com/112459285/200825759-e1c73924-3083-4d29-92bc-35a6645a6fdb.png)
 
 
