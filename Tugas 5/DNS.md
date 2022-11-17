@@ -36,7 +36,7 @@ netmask 255.255.255.0
 Ketikkan Y lalu muncul seperti gambar dibawah ini 
 ![6 (1)](https://user-images.githubusercontent.com/112459285/200842033-f65b72ac-ca17-4260-9d5c-3bd166797c43.png)
 
-7) Langkah ketuju ketikah command 
+7) Langkah ketujuh ketikan command 
 - cd /etc/bind/, 
 - cp db 127.db.192, 
 - cp db.local db.maria dan 
