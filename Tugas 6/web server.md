@@ -3,7 +3,7 @@ Trisena Wulandari (1910131320014)
 Maria Manurung (1910131120004)
 Yulia Sari (1910131120001)
 
-1. Langkah pertama buka Debian kemudia masuk ke super user dengan command **sudo su** dan masukkan password Linuxnya.
+1. Langkah pertama buka Debian kemudian masuk ke super user dengan command **sudo su** atau bisa engan **su** dan masukkan password Linuxnya.
 ![1](https://user-images.githubusercontent.com/112459285/198181907-9c7d2814-81c5-4e28-9121-4347d7279889.png)
 
 
@@ -21,7 +21,7 @@ Yulia Sari (1910131120001)
 
 
 
-5. Langkah kelima selanjutnya kita akan menguji menggunakan script php untuk menampilkan info php pada server kita, Kita akan membuat skrip php pada folder **/var/www**  Jalankan command **nano /var/www/html/test/php** atau jika gagal **nano /var/www/test.php**. Setelah itu masukkan skrip seperti gambar dibawah ini 
+5. Langkah kelima selanjutnya adalah  menguji menggunakan script php untuk menampilkan info php pada server kita, Kita akan membuat skrip php pada folder **/var/www**  Jalankan command **nano /var/www/html/test/php** atau jika gagal **nano /var/www/test.php**. Setelah itu masukkan skrip seperti gambar dibawah ini 
 ![PHPP](https://user-images.githubusercontent.com/112459285/198182414-044328f0-e903-45ab-8fbf-ddb705c1e06f.png)
 
 6. Langkah keenam yaitu yang langkah terakhir selanjutnya buka browser dalam linuxnya lalu ketik (**IP server kalian)/test.php.** Maka akan muncul laman tentang info dari php yang kita install pada server. 
