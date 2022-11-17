@@ -1,3 +1,8 @@
+# Nama Kelompok 
+### 1.Maria Manurung (
+### 2.Trisena Wulandari ( 
+### 3.Yulia Sari (1910131120001)
+
 # Clien dan Server
 
 1. Pertama, jalankan mesin virtual Debian 11 Linux terlebih dahulu. Caranya klik mesin virtual Debian 11 kemudian klik tombol Mulai.
