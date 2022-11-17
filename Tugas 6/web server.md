@@ -1,7 +1,7 @@
 # WEB SERVER 
-# Trisena Wulandari (1910131320014)
-# Maria Manurung (1910131120004)
-# Yulia Sari (1910131120001)
+### Trisena Wulandari (1910131320014)
+### Maria Manurung (1910131120004)
+### Yulia Sari (1910131120001)
 
 1. Langkah pertama buka Debian kemudian masuk ke super user dengan command **sudo su** atau bisa engan **su** dan masukkan password Linuxnya.
 ![1](https://user-images.githubusercontent.com/112459285/198181907-9c7d2814-81c5-4e28-9121-4347d7279889.png)
