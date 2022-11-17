@@ -3,7 +3,7 @@
 ### 2.Trisena Wulandari ( 
 ### 3.Yulia Sari (1910131120001)
 
-# Clien dan Server
+# Client dan Server
 
 1. Pertama, jalankan mesin virtual Debian 11 Linux terlebih dahulu. Caranya klik mesin virtual Debian 11 kemudian klik tombol Mulai.
 ![1](https://user-images.githubusercontent.com/112459285/197338096-d2dad838-dd93-4ab7-9165-790d07384ef5.png)
