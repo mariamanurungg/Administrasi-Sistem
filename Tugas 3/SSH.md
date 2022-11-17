@@ -1,5 +1,5 @@
 # SSH (REMOTE ACCESS)
-### Nama Anggota Kelompok
+
 ### Trisena Wulandari (1910131320014)
 ### Maria Manurung (1910131120004)
 ### Yulia Sari (1910131120001)
